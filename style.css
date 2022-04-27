@@ -1,0 +1,11 @@
+.logo{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.color-blue{
+    color: #264a9f !important;
+}
+.transparent{
+    background:#071e54;
+    opacity: 0.09;
+}
