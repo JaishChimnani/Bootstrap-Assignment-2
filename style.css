@@ -5,6 +5,10 @@
 .color-blue{
     color: #264a9f !important;
 }
+.button{
+    width: 150px;
+    
+}
 .men-photo{
     width: 570px;
     height: 330px;
